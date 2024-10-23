@@ -6,6 +6,7 @@ setImmediate(() => console.log("setImmediate"));
 setTimeout(() => console.log("Timer ecpired"), 0);
 
 Promise.resolve(() => console.log("Promise"));
+Promise.resolve("Promise").then(console.log);
 
 fs.readFile("./file2.txt", "utf-8", () => {
     setTimeout(() => console.log("File Read call back 2"), 0);
