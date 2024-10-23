@@ -23,9 +23,9 @@ printA();
 console.log("Last line of the file");
 
 // Output:
-        // a =  100
-        // Last line of the file
-        // Process.nextTick
-        // Timer expired
-        // setImmediate
-        // File Read call back
+// a =  100
+// Last line of the file
+// Process.nextTick
+// Timer expired
+// setImmediate
+// File Read call back

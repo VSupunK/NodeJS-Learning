@@ -24,8 +24,8 @@ console.log("Last line of the file");
 
 
 // ---------Ouput----------
-        // a =  100
-        // Last line of the file
-        // setTimeout: Timer expired
-        // setImmediate
-        // File Read call back
+// a =  100
+// Last line of the file
+// setTimeout: Timer expired
+// setImmediate
+// File Read call back
